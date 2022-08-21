@@ -4,7 +4,7 @@ import { AiFillInstagram, AiOutlineTwitter } from 'react-icons/ai'
 const Footer = () => {
   return (
     <div className='footer-container'>
-      <p> TB Headphones 2022 -- All Rights Reserved</p>
+      <p> TB Electronics 2022 -- All Rights Reserved</p>
       <p className='icons'>
         <AiFillInstagram />
         <AiOutlineTwitter />
