@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Electronic eCommerce Store!
 
-## Getting Started
+I created this eCommerce store to build and practice my React skills, with a functional ecommerce store with Stripe functionalitity! Easily customizable with any products, and build in cart to track and buy the products! 
 
-First, run the development server:
+**Link to project:** https://ecomm-mussina123.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+</br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![My Image](Ecomm-Main.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## How It's Made:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+**Tech used:** React, Nextjs, Stripe, HTML, CSS
 
-## Learn More
+This website was build using Nextjs on top of React to build a smooth and quick eCommerce website. Full product pages with description, rating, price, add to cart and buy now button! Stripe integration was used to emulate a real eCommerce website with full functionality. 
 
-To learn more about Next.js, take a look at the following resources:
+## Optimizations
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+I created this project with full functionality of a typical eCommerce site. With more time, there would be many optimizations I would love to do!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Future optimizations include: 
 
-## Deploy on Vercel
+- User login page, which would keep track of past orders, billing/shipping information, using proper authorization. 
+- Expanind the homepage of the site to include many more products and product categories! 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Lessons Learned:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+More practice with React hooks and managing of state/props!
